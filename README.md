@@ -1,2 +1,2 @@
 # Square
-How to draw a square by tht motor
+How to draw the square with a motor
