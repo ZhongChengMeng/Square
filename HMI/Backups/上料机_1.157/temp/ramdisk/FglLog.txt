@@ -1,0 +1,48 @@
+*GUI(1)*UserPrjDat:D:\workfile\LY\6.0\LY_LoadShield\HMI\Bin\fshmi.bin
+*GUI(1)*PicResDir:D:\workfile\LY\6.0\LY_LoadShield\HMI\Bin\Images\
+*GUI(1)*TtfResDir:D:\workfile\LY\6.0\LY_LoadShield\HMI\Bin\Fonts\
+*GUI(1)*AudResDir:C:\Program Files (x86)\Flexem\FStudio 2.x\Bin\
+*GUI(1)*PlcDrvDir:D:\workfile\LY\6.0\LY_LoadShield\HMI\Bin\Device\
+*GUI(1)*MacroDir:D:\workfile\LY\6.0\LY_LoadShield\HMI\Bin\Macro\
+*GUI(1)*RcpDir:D:\workfile\LY\6.0\LY_LoadShield\HMI\temp\disk\hmi\rcp\
+*GUI(1)*SysFrmBuf:<XPixs>800</XPixs><YPixs>480</YPixs><ColorBits>16</ColorBits>
+*GUI(1)*HmiDir:D:\workfile\LY\6.0\LY_LoadShield\HMI\temp\disk\hmi\
+*GUI(1)*SdDir:D:\workfile\LY\6.0\LY_LoadShield\HMI\temp\disk\sd\
+*GUI(1)*Usb1Dir:D:\workfile\LY\6.0\LY_LoadShield\HMI\temp\disk\usb1\
+*GUI(1)*Usb2Dir:C:\Program Files (x86)\Flexem\FStudio 2.x\Bin\
+*GUI(1)*MemFs:D:\workfile\LY\6.0\LY_LoadShield\HMI\temp\ramdisk\
+*GUI(1)*RunMode:SimPlc
+*GUI(1)*Debug:N
+*GUI(1)*SysFontDir:C:\Program Files (x86)\Flexem\FStudio 2.x\Lib\Fonts\
+*GUI(1)*MapPort:1234
+*GUI(1)*ClientMonit::Pid(0)
+*GUI(1)*LightSave 0 BackLight 10 LightPercent 3
+*GUI(1)*DoLoadTtfFile::Pid(0)
+*GUI(1)*loadTtfFile(C:\Program Files (x86)\Flexem\FStudio 2.x\Lib\Fonts\puhui-regular.ttf) OK
+*GUI(1)*Touch::Pid(0)
+*GUI(1901)*TOUCH_DOWN:(549,130)
+*GUI(2001)*TOUCH_UP:(550,130)
+*GUI(2701)*TOUCH_DOWN:(621,237)
+*GUI(2801)*TOUCH_UP:(621,237)
+*GUI(4001)*TOUCH_DOWN:(398,276)
+*GUI(4101)*TOUCH_UP:(398,276)
+*GUI(5001)*TOUCH_DOWN:(570,146)
+*GUI(5101)*TOUCH_UP:(570,146)
+*GUI(5501)*TOUCH_DOWN:(526,236)
+*GUI(5701)*TOUCH_UP:(527,238)
+*GUI(6401)*TOUCH_DOWN:(415,249)
+*GUI(6601)*TOUCH_UP:(415,249)
+*GUI(7101)*CLICK_DOUBLE:(402,272)
+*GUI(7301)*TOUCH_UP:(402,272)
+*GUI(8001)*TOUCH_DOWN:(412,250)
+*GUI(8101)*TOUCH_UP:(412,250)
+*GUI(8701)*CLICK_DOUBLE:(421,274)
+*GUI(8801)*TOUCH_UP:(421,274)
+*GUI(9601)*TOUCH_DOWN:(564,100)
+*GUI(9701)*TOUCH_UP:(564,100)
+*GUI(9901)*TOUCH_DOWN:(559,114)
+*GUI(10001)*TOUCH_UP:(559,114)
+*GUI(61301)*TOUCH_DOWN:(638,255)
+*GUI(61401)*TOUCH_UP:(638,255)
+*GUI(62401)*TOUCH_DOWN:(405,268)
+*GUI(62501)*TOUCH_UP:(405,268)
